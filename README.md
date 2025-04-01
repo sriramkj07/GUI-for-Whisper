@@ -2,7 +2,7 @@
 
 A modern, user-friendly desktop app that turns speech into text using OpenAI's Whisper model. No API keys needed - everything runs right on your computer!
 
-![Whisper GUI Screenshot]!(
+[Whisper GUI Screenshot]
 ![WhisperGUI](https://github.com/user-attachments/assets/0417621f-e58c-4956-a2c0-46de8ba9f1f1)
 
 
